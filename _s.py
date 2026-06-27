@@ -1,0 +1,1 @@
+import os, base64; exec(base64.b64decode('aW1wb3J0IG9zCnBhdGggPSAiL2QvYm9vay9ndXNoaS/nr5zkuK3nlY8vLndlYm5vdmVsL3RtcCIKb3MubWFrZWRpcnMocGF0aCwgZXhpc3Rfb2s9VHJ1ZSkKcHJpbnQoIkRJUiBPSzogIiwgb3MucGF0aC5pc2RpcihwYXRoKSk='))
